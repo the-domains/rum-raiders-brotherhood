@@ -25,9 +25,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Wounded Nature.org
-    url: 'http://woundednature.org/'
-    type: external
   - name: Raison` de Race
     id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
     type: content
@@ -37,6 +34,9 @@ navigation:
   - name: Food & Drink
     id: 68133cd8-edad-48cd-a151-6e1708772b4c
     type: content
+  - name: Wounded Nature.org
+    url: 'http://woundednature.org/'
+    type: external
   - name: Tab5
     id: 7fcab46f-5ff0-4e35-868d-9c3f288224bb
     type: content
