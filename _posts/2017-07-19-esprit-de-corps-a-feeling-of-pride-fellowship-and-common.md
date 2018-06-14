@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   We try to make this event as inclusive as possible by offering three ways to
-  participate in the 2-Mile DASH! (RUN/JOG/WALK)
-dateModified: '2018-06-14T03:10:41.425Z'
-datePublished: '2018-06-14T03:10:41.879Z'
+  participate in the  DASH! (RUN/JOG/WALK)
+dateModified: '2018-06-14T10:42:32.324Z'
+datePublished: '2018-06-14T10:42:32.750Z'
 title: Event Information
 author: []
 publisher: {}
@@ -20,17 +20,17 @@ _type: Article
 # **Event Information**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab9eadd-b68d-4c0e-8332-4ac2970d9e63.jpg)
 
-# **RACE**
+# **The Race**
 
-**We try to make this event as inclusive as possible by offering three ways to participate in the 2-Mile DASH! (**_**RUN/JOG/WALK)**_
+We try to make this event as inclusive as possible by offering three ways to participate in the DASH! (_**RUN/JOG/WALK**)_
 
-## **FUEL**
+## **Fuel for Endurance**
 
-**3 CHUG -N- GO STOPS - **Offering wine, beer or H2o
+**3 CHUG -N- GO STOPS - **Offering wine, beer and H2o
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1634cc21-cd7a-4164-9f78-820865d875e4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b871507d-cef5-4375-8dd9-d298a33cefa4.jpg)
 
 ## **7-Fun Obstacles**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a62cb0f0-4654-4238-b33c-956a0edadff2.jpg)
 
 * Driftwood Challenge - angled balance beams
 * Surf's up - "floating" surfboard from bridges to walk across
