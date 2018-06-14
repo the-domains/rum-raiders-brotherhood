@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-06-14T16:45:58.395Z'
-datePublished: '2018-06-14T16:45:58.928Z'
+dateModified: '2018-06-14T16:52:00.395Z'
+datePublished: '2018-06-14T16:52:00.990Z'
 title: Party Time
 author: []
 publisher: {}
@@ -15,8 +15,6 @@ url: let-the-good-times-roll/index.html
 _type: Article
 
 ---
-<iframe src="https://player.vimeo.com/video/275103370" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb2494e-ca71-4cbb-83a7-b7ede5462fbd.jpg)
 
 # Party Time
