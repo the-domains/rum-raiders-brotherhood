@@ -41,7 +41,7 @@ navigation:
   - name: tab6
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
-title: Charleston Dash & Bash
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: article
@@ -57,7 +57,6 @@ content:
         domain: drive.google.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
