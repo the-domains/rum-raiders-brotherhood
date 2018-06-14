@@ -67,7 +67,6 @@ content:
         Dropbox is a free service that lets you bring your photos, docs, and
         videos anywhere and share them easily. Never email yourself a file
         again!
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
