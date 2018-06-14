@@ -10,11 +10,13 @@ color:
   lightness: 0.03891840575253683
   saturation: 0.6427184913068604
   rhythmicContrast: 0.6041641040064284
+github: true
 layout_spectrum: 0.7624284483256316
 author:
   name: eSecurity Consulting Servces
   email: r.wilbert3@gmail.com
 name: Charleston Dash & Bash
+url: 'https://thegrid.ai/CharlestonDashnBash'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -38,6 +40,9 @@ navigation:
   - name: tab6
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
+  - name: Raison` de Race
+    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
+    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -48,19 +53,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfbd625d-7ad1-4778-8d02-2cdb8e3cc652.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -72,5 +77,3 @@ purpose:
   - type: internal
     label: Race Info
     item: ee7ee927-8a0c-4a50-8518-2c29f1fb4849
-github: true
-url: 'https://thegrid.ai/CharlestonDashnBash'
