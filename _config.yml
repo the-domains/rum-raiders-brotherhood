@@ -41,35 +41,7 @@ navigation:
     url: 'http://woundednature.org/'
     type: external
 title: ''
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: article
-    html: >-
-      <article><h1>Dash n Bash.mp4</h1><img
-      src="https://lh4.googleusercontent.com/xZ4srEk8t0IChEfuNMEpBUXuq38mIXwEcsyc73H_yCIzyiJcsIxxMtfRu3A=w1200-h630-p"></article>
-    src: >-
-      https://lh4.googleusercontent.com/xZ4srEk8t0IChEfuNMEpBUXuq38mIXwEcsyc73H_yCIzyiJcsIxxMtfRu3A=w1200-h630-p
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://drive.google.com'
-        name: Google Drive
-        favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_video_favicon.ico'
-        domain: drive.google.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://drive.google.com/file/d/1xrxTYyBLs_vnIlvTytKkWIONOtYZ4zmy/view?usp=sharing
-      title: Dash n Bash.mp4
-      datePublished: null
-    title: Dash n Bash.mp4
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: ' '
 purpose:
   - type: internal
