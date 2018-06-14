@@ -1,0 +1,55 @@
+typography_spectrum: 0.41560873304493723
+color:
+  brandColors:
+    - '#8CC63E'
+    - '#00BFF3'
+    - '#F15927'
+    - '#434343'
+    - '#FEFFFF'
+  brandStrength: 0.5212071022929827
+  lightness: 0.03891840575253683
+  saturation: 0.6427184913068604
+  rhythmicContrast: 0.6041641040064284
+layout_spectrum: 0.7624284483256316
+author:
+  name: eSecurity Consulting Servces
+  email: r.wilbert3@gmail.com
+name: Charleston Dash & Bash
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Wounded Nature.org
+    url: 'http://woundednature.org/'
+    type: external
+  - name: About Us
+    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
+    type: content
+  - name: Event Info
+    id: ee7ee927-8a0c-4a50-8518-2c29f1fb4849
+    type: content
+  - name: Food & Drink
+    id: 68133cd8-edad-48cd-a151-6e1708772b4c
+    type: content
+  - name: Tab5
+    id: 7fcab46f-5ff0-4e35-868d-9c3f288224bb
+    type: content
+  - name: tab6
+    id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
+    type: content
+title: Charleston Dash & Bash
+content: []
+description: ' Dedicated to Restoring Our Waterways'
+purpose:
+  - type: internal
+    label: About us
+    item: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
+  - type: internal
+    label: Race Info
+    item: ee7ee927-8a0c-4a50-8518-2c29f1fb4849
+github: true
+url: 'https://thegrid.ai/CharlestonDashnBash'
