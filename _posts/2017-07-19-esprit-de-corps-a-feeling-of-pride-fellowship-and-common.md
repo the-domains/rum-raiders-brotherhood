@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We try to make this event as inclusive as possible by offering three ways to
   participate in the 2-Mile DASH! (RUN/JOG/WALK)
-dateModified: '2018-06-14T03:08:59.243Z'
-datePublished: '2018-06-14T03:08:59.690Z'
+dateModified: '2018-06-14T03:10:41.425Z'
+datePublished: '2018-06-14T03:10:41.879Z'
 title: Event Information
 author: []
 publisher: {}
@@ -18,7 +18,7 @@ _type: Article
 
 ---
 # **Event Information**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1e1f540-508f-4550-95f9-fed888a6914d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab9eadd-b68d-4c0e-8332-4ac2970d9e63.jpg)
 
 # **RACE**
 
