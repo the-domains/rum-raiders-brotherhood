@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-06-14T11:03:42.210Z'
-datePublished: '2018-06-14T11:03:42.573Z'
+dateModified: '2018-06-14T12:42:25.997Z'
+datePublished: '2018-06-14T12:42:26.407Z'
 title: Let the GOOD TIMES Roll
 author: []
 publisher: {}
@@ -15,6 +15,10 @@ url: let-the-good-times-roll/index.html
 _type: Article
 
 ---
+<audio controls autoplay>
+      <source src="https://www.dropbox.com/s/mcvuqpehdbj19ge/Dash%20n%20Bash.mp4?dl=0">
+    </audio>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/568677f1-7487-4741-9151-4b169969903d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48bc22ef-671b-4ba2-8c01-e340b67390fd.jpg)
 
