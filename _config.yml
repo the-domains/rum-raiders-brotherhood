@@ -25,6 +25,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Be a Part of the Cure
+    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
+    type: content
   - name: Registration
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
@@ -37,9 +40,6 @@ navigation:
   - name: Wounded Nature.org
     url: 'http://woundednature.org/'
     type: external
-  - name: Be a Part of the Cure
-    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
-    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
