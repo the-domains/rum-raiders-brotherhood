@@ -25,9 +25,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Raison` de Race
-    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
-    type: content
   - name: Registration
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
@@ -64,7 +61,6 @@ content:
       keywords:
         - ''
       description: Uploaded by Robert Wilbert on 2018-06-14.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ntELNM3XgIE&feature=applinks'
