@@ -28,9 +28,6 @@ navigation:
   - name: Raison` de Race
     id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
     type: content
-  - name: Event Info
-    id: ee7ee927-8a0c-4a50-8518-2c29f1fb4849
-    type: content
   - name: Food & Drink
     id: 68133cd8-edad-48cd-a151-6e1708772b4c
     type: content
