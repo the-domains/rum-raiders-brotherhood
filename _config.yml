@@ -42,7 +42,32 @@ navigation:
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
 title: Charleston Dash & Bash
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: <article><h1>Dash n Bash.mp4</h1></article>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://drive.google.com'
+        name: Google Drive
+        favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_video_favicon.ico'
+        domain: drive.google.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://drive.google.com/file/d/1xrxTYyBLs_vnIlvTytKkWIONOtYZ4zmy/view?usp=sharing
+      title: Dash n Bash.mp4
+      datePublished: null
+    title: Dash n Bash.mp4
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: ' Dedicated to Restoring Our Waterways'
 purpose:
   - type: internal
