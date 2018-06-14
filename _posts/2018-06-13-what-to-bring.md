@@ -1,11 +1,8 @@
 ---
 inFeed: true
-description: |-
-  Your Signed
-    Waiver 
-     Download Waiver
-dateModified: '2018-06-14T02:45:32.680Z'
-datePublished: '2018-06-14T02:45:33.149Z'
+description: "Your Signed\n  Waiver\n  \_Download Waiver"
+dateModified: '2018-06-14T02:45:56.708Z'
+datePublished: '2018-06-14T02:45:57.189Z'
 title: WHAT TO BRING?
 author: []
 publisher: {}
@@ -18,9 +15,7 @@ url: what-to-bring/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ea5d6a3ca0dffac130f783cc15979044/croprotate.png?cropheight=713&cropwidth=625&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff15a733c-a175-4ccb-a3ab-f928c9c7a118.png&x=94&y=0)
-
-## **WHAT TO BRING?**
+# **WHAT TO BRING?**
 
 **Your Signed
 Waiver**  
