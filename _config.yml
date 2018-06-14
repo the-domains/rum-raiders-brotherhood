@@ -28,6 +28,9 @@ navigation:
   - name: Wounded Nature.org
     url: 'http://woundednature.org/'
     type: external
+  - name: Raison` de Race
+    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
+    type: content
   - name: Event Info
     id: ee7ee927-8a0c-4a50-8518-2c29f1fb4849
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: tab6
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
-    type: content
-  - name: Raison` de Race
-    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
     type: content
 title: ''
 content:
