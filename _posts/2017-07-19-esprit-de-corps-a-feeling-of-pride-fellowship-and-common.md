@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We try to make this event as inclusive as possible by offering three ways to
   participate in the DASH! (RUN/JOG/WALK)
-dateModified: '2018-06-14T10:47:43.905Z'
-datePublished: '2018-06-14T10:47:44.297Z'
+dateModified: '2018-06-14T10:51:28.200Z'
+datePublished: '2018-06-14T10:51:28.777Z'
 title: Event Information
 author: []
 publisher: {}
@@ -19,11 +19,12 @@ _type: Article
 ---
 # **Event Information**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab9eadd-b68d-4c0e-8332-4ac2970d9e63.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5e80db5-dc08-426d-b01f-22f8f82807aa.jpg)
 
 # **The Race**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5e80db5-dc08-426d-b01f-22f8f82807aa.jpg)
 
 We try to make this event as inclusive as possible by offering three ways to participate in the DASH! (_**RUN/JOG/WALK**)_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be52d506-79c9-41ca-a329-4140bb50190b.jpg)
 
 ## **Fuel for Endurance**
 
