@@ -67,7 +67,6 @@ content:
         Dropbox is a free service that lets you bring your photos, docs, and
         videos anywhere and share them easily. Never email yourself a file
         again!
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -80,4 +79,7 @@ content:
       videos anywhere and share them easily. Never email yourself a file again!
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
-purpose: []
+purpose:
+  - type: external
+    url: 'https://www.dropbox.com/s/mcvuqpehdbj19ge/Dash%20n%20Bash.mp4?dl=0'
+    label: Show Me Around
