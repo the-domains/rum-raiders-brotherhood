@@ -43,7 +43,7 @@ navigation:
   - name: Party Time
     id: a69b1219-40e7-48c3-8717-3ddfb45f1cf9
     type: content
-title: 'Run, Climb, Crawl & PARTY!'
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
