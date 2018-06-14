@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-06-14T15:38:39.717Z'
-datePublished: '2018-06-14T15:38:40.527Z'
+dateModified: '2018-06-14T15:38:52.165Z'
+datePublished: '2018-06-14T15:38:52.535Z'
 title: ''
 author: []
 publisher: {}
@@ -16,5 +16,3 @@ _type: MediaObject
 
 ---
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzNVU1vm0AQPTu_YrpSo0SqwflSW9v4ECVVbzmkitRTNMBg1llYtDuArSj_vbuQkDhpI1e99ALLMvNmmPd4OxrNP4zHcM1oGC7Rbr5zoc5uZEo6SHQB51cXP8FSwlKXMB4v9uaWN4qANxVFgmnNYWKtWATkcnOf2_hcCCg_a25tYmTF96m0lcLNtNQlPczDDsEhpbKBRKG1kdjOFtCFRKLSVvrKU0MKWTY0K3A9bmXK-fTo-MukWs_EYt5XBKxZ-zKReFoJcABMxuG7boJMKrLhc5nwAm1-W96eu1uwqpZD2ccCk8lHASzZb_lQKMGHClBaV5HwVwHuk8qU0kg0aKCJOJd2Zol_yIJ0zQdZXXazOzi8bwLf08Hhw6eTyeRQ-FHq2iQE1iS7dFicNuJx7v3LojoVEP41TktxsQ3U73gkHa8c148vsaqUTNC3H67HNtfJXYsNjTPVTSFFxj_V60IyvQ5smwno5hkJz5iAnOQy50h8Pp68w7MfT4UGCyixcBGFbiQJaFDVtFvR8BUCKqXbb7VS14khKgcsNjW9je6wbtDYIW6Ql0_YT3TJRisbZags7WcD7mWJsXJ66Pd7_V253bTP66TTrR6luZMy9z21b7TgeoY5FTGl71H_71QADNP4D8cwekXsE6NtodOOXiytY5ZKFrvpulL1UvqcpYvNmatpGLZtG2CqY_KmGC51uCTuwv0oyNx6PXkJyWIJqPiVX-z4Y760oIEGjK1WNdNMUcbTyeyZwpf21Bk2-GZiTO5AWig1g62rSht2-og3sHEmAbHRrSXTNxv2f7tfdc0sthz52b-dxSLkhrJhHNt27WciFv4ZeitmpxEjUc1DXPjSvzlXmpPga3A0D13FRX91NtZVe29a3dKdOcHKipdH0AobHHoN-5UD9Cebk9xO59reaPQLLPF52g" height="244" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9879a338-658a-4d39-a6cb-1a03e6e69124.mp4)
