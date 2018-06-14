@@ -44,39 +44,6 @@ navigation:
     id: a69b1219-40e7-48c3-8717-3ddfb45f1cf9
     type: content
 title: ''
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: article
-    html: >-
-      <article><h1>Dash n Bash.mp4</h1><p>Dropbox is a free service that lets
-      you bring your photos, docs, and videos anywhere and share them easily.
-      Never email yourself a file again!</p><img
-      src="https://www.dropbox.com/temp_thumb_from_token/s/mcvuqpehdbj19ge?preserve_transparency=False&size=1024x1024&size_mode=2"></article>
-    src: >-
-      https://www.dropbox.com/temp_thumb_from_token/s/mcvuqpehdbj19ge?preserve_transparency=False&size=1024x1024&size_mode=2
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://www.dropbox.com'
-        name: Dropbox
-        favicon: 'https://cfl.dropboxstatic.com/static/images/favicon-vflUeLeeY.ico'
-        domain: www.dropbox.com
-      keywords: []
-      description: >-
-        Dropbox is a free service that lets you bring your photos, docs, and
-        videos anywhere and share them easily. Never email yourself a file
-        again!
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'https://www.dropbox.com/s/mcvuqpehdbj19ge/Dash%20n%20Bash.mp4?dl=0'
-      title: Dash n Bash.mp4
-      datePublished: null
-    title: Dash n Bash.mp4
-    caption: >-
-      Dropbox is a free service that lets you bring your photos, docs, and
-      videos anywhere and share them easily. Never email yourself a file again!
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: ''
 purpose: []
