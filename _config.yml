@@ -41,7 +41,7 @@ navigation:
   - name: tab6
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
-title: Dedicated to Restoring Our Waterways
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
