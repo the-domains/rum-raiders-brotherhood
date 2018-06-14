@@ -40,9 +40,6 @@ navigation:
   - name: Registration
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
-  - name: What to Bring
-    id: 7fcab46f-5ff0-4e35-868d-9c3f288224bb
-    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
