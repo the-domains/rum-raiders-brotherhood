@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Optional
-dateModified: '2018-06-14T03:01:18.135Z'
-datePublished: '2018-06-14T03:01:18.803Z'
+dateModified: '2018-06-14T03:05:11.070Z'
+datePublished: '2018-06-14T03:05:11.620Z'
 title: WHAT TO BRING?
 author: []
 publisher: {}
