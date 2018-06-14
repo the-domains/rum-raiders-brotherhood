@@ -37,9 +37,6 @@ navigation:
   - name: Wounded Nature.org
     url: 'http://woundednature.org/'
     type: external
-  - name: Tab5
-    id: 7fcab46f-5ff0-4e35-868d-9c3f288224bb
-    type: content
   - name: tab6
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
