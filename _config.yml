@@ -42,7 +42,32 @@ navigation:
     id: 34b594bf-61d3-42c4-93d6-aae73f039c8f
     type: content
 title: ''
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfbd625d-7ad1-4778-8d02-2cdb8e3cc652.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfbd625d-7ad1-4778-8d02-2cdb8e3cc652.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: ' Dedicated to Restoring Our Waterways'
 purpose:
   - type: internal
