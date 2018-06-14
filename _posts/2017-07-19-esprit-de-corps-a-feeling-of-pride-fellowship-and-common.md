@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   We try to make this event as inclusive as possible by offering three ways to
-  participate in the  DASH! (RUN/JOG/WALK)
-dateModified: '2018-06-14T10:42:32.324Z'
-datePublished: '2018-06-14T10:42:32.750Z'
+  participate in the DASH! (RUN/JOG/WALK)
+dateModified: '2018-06-14T10:47:43.905Z'
+datePublished: '2018-06-14T10:47:44.297Z'
 title: Event Information
 author: []
 publisher: {}
@@ -19,6 +19,7 @@ _type: Article
 ---
 # **Event Information**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab9eadd-b68d-4c0e-8332-4ac2970d9e63.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5e80db5-dc08-426d-b01f-22f8f82807aa.jpg)
 
 # **The Race**
 
@@ -27,9 +28,9 @@ We try to make this event as inclusive as possible by offering three ways to par
 ## **Fuel for Endurance**
 
 **3 CHUG -N- GO STOPS - **Offering wine, beer and H2o
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1634cc21-cd7a-4164-9f78-820865d875e4.jpg)
 
 ## **7-Fun Obstacles**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1634cc21-cd7a-4164-9f78-820865d875e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a62cb0f0-4654-4238-b33c-956a0edadff2.jpg)
 
 * Driftwood Challenge - angled balance beams
