@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Your Signed Waiver  Download Waiver
-dateModified: '2018-06-14T02:47:17.822Z'
-datePublished: '2018-06-14T02:47:18.428Z'
+description: Optional
+dateModified: '2018-06-14T02:53:32.919Z'
+datePublished: '2018-06-14T02:53:33.370Z'
 title: WHAT TO BRING?
 author: []
 publisher: {}
@@ -15,28 +15,21 @@ url: what-to-bring/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22bd6ba9-2d7c-47b7-bc8e-27d3c076f74b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd7569d-28e2-4d4e-a4ac-e0e5681ea04f.jpg)
 
 # **WHAT TO BRING?**
 
-**Your Signed Waiver**  
-Download Waiver
-
-Photo ID
+* **Your Signed Waiver** Download Waiver
+* **Running Gear** (Costumes Encouraged!)
+* **Photo ID**
 
 **Optional**
 
-**Running Gear** (Costumes Encouraged!)
-
-Blanket or Lawn Chairs for the Festival and Fun Zone (You will want to stay for this one!)
-
-**Cash**
-
-For parking ($10), food trucks, Dash and Bash gear and more visits to the Chug N Go stops
-
-Sunscreen
-
-A Car Full of Friends with a Designated Driver!
+* Blanket or Lawn Chairs for the Festival and Fun Zone (You will want to stay for this one!)
+* **Cash**
+* For parking ($10), food trucks, Dash and Bash gear and more visits to the Chug N Go stops
+* Sunscreen
+* A Car Full of Friends with a Designated Driver!
 
 MORE FAQs
 
