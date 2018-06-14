@@ -37,6 +37,9 @@ navigation:
   - name: Wounded Nature.org
     url: 'http://woundednature.org/'
     type: external
+  - name: Be a Part of the Cure
+    id: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
+    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -48,19 +51,17 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/ntELNM3XgIE'
+      keywords:
+        - ''
+      related: []
       author:
         - name: Robert Wilbert
           url: 'https://www.youtube.com/user/rfwilbert3'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: youtu.be
-      keywords:
-        - ''
-      description: Uploaded by Robert Wilbert on 2018-06-14.
+      '@context': 'http://schema.org'
+      title: Dash n Bash
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ntELNM3XgIE&feature=applinks'
@@ -99,10 +100,12 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/ntELNM3XgIE'
-      title: Dash n Bash
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: Uploaded by Robert Wilbert on 2018-06-14.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
