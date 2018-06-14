@@ -46,7 +46,4 @@ navigation:
 title: ''
 content: []
 description: ''
-purpose:
-  - type: internal
-    label: About us
-    item: abb0647c-c66a-4ba1-a8e4-25b7b39ba282
+purpose: []
