@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We try to make this event as inclusive as possible by offering three ways to
   participate in the DASH! (RUN/JOG/WALK)
-dateModified: '2018-06-14T10:51:28.200Z'
-datePublished: '2018-06-14T10:51:28.777Z'
+dateModified: '2018-06-14T10:52:21.328Z'
+datePublished: '2018-06-14T10:52:21.794Z'
 title: Event Information
 author: []
 publisher: {}
@@ -26,11 +26,9 @@ _type: Article
 We try to make this event as inclusive as possible by offering three ways to participate in the DASH! (_**RUN/JOG/WALK**)_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be52d506-79c9-41ca-a329-4140bb50190b.jpg)
 
-## **Fuel for Endurance**
+# **3 CHUG -N- GO STOPS - **Offering wine, beer and H2o
 
-**3 CHUG -N- GO STOPS - **Offering wine, beer and H2o
-
-## **7-Fun Obstacles**
+# **7-Fun Obstacles**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1634cc21-cd7a-4164-9f78-820865d875e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a62cb0f0-4654-4238-b33c-956a0edadff2.jpg)
 
