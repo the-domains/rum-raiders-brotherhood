@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <iframe width=”560” height=”315”
-dateModified: '2018-06-14T12:49:30.951Z'
-datePublished: '2018-06-14T12:49:31.315Z'
+dateModified: '2018-06-14T12:53:04.545Z'
+datePublished: '2018-06-14T12:53:04.887Z'
 title: ''
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2018-06-14T12:37:02.028Z'
 _type: Blurb
 
 ---
-<button data-role="cta" style="">Party</button>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9879a338-658a-4d39-a6cb-1a03e6e69124.mp4)
 
 <iframe width="560" height="315"
 
