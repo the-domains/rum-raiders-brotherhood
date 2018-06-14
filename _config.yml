@@ -82,7 +82,4 @@ description: ''
 purpose:
   - type: external
     url: 'https://www.dropbox.com/s/mcvuqpehdbj19ge/Dash%20n%20Bash.mp4?dl=0'
-    label: Show Me Around
-  - type: external
-    url: 'https://www.dropbox.com/s/mcvuqpehdbj19ge/Dash%20n%20Bash.mp4?dl=0'
     label: This Way to the PARTY
